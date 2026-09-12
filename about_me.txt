@@ -1,0 +1,13 @@
+Hi, I am Rajesh Sudam Bhojane. I work in cybersecurity, with a special focus on cryptography, cryptographic key management, and hardware security modules used in banking and payments.
+
+I grew up in India and built my career across technology and financial services. I have lived and worked in Singapore as well as India, so I am comfortable collaborating with global teams across time zones.
+
+My day-to-day work is about protecting keys, secrets, and critical systems. I care about how payment HSMs, cloud key vaults, and enterprise cryptography controls actually work in production, not just on a slide. I have been deepening my skills in Azure Key Vault, payment HSM operations, and enterprise blockchain security.
+
+I enjoy turning complex security ideas into simple language that leaders and engineers can both use. I write learning roadmaps, mentor people who are new to cryptography, and keep practising clear communication.
+
+My key skills include cryptographic key management, HSM administration, cloud security, risk-aware design, and stakeholder communication. I also like building small practical apps, including AI tools that make everyday work easier.
+
+My hobbies include spending time with my family, following technology and finance news, and improving my public speaking through Toastmasters. I also enjoy mentoring, writing structured study plans, and testing new ideas with small projects.
+
+A few fun facts about me: I am happiest when a complicated control can be explained in one clear paragraph. I like connecting security theory to real banking operations. And I am always curious about how AI can help people tell their professional story more clearly.
